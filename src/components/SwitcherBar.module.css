@@ -1,0 +1,11 @@
+.btn{
+    background: paleturquoise;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.active{
+    background: cadetblue;
+}
